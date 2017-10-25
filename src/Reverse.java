@@ -38,6 +38,8 @@ public class Reverse {
 	        }
 	        
 	        	System.out.println("pattern matches.." + count);**/
+		 // this is in git
+		 
 		 Reverse rev = new Reverse();
 		 String s = rev.reversestr("abdser");
 		 System.out.println(s);
